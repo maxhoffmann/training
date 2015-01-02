@@ -1,0 +1,15 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "private": true,
+  "description": "visualization of max’s training",
+  "main": "bin/csv-to-json.js",
+  "author": "Maximilian Hoffmann",
+  "scripts": {
+    "start": "node update-data.js"
+  },
+  "dependencies": {
+    "comma-separated-values": "^3.6.1",
+    "lodash-node": "^2.4.1"
+  }
+}
