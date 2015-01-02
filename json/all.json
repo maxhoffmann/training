@@ -720,6 +720,16 @@
     "notes": ""
   },
   {
+    "date": "2011-11-11T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-03-16T23:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -933,6 +943,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-03-16T23:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 10,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -1136,6 +1156,16 @@
     "notes": ""
   },
   {
+    "date": "2012-03-19T23:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 6,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-04-23T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -1349,6 +1379,26 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-04-23T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
+    "date": "2012-04-23T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 6,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -1568,6 +1618,16 @@
     "notes": ""
   },
   {
+    "date": "2012-04-29T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-05-06T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -1781,6 +1841,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-05-06T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -2008,6 +2078,16 @@
     "notes": ""
   },
   {
+    "date": "2012-05-20T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-05-28T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -2213,6 +2293,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-05-28T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -2424,6 +2514,16 @@
     "notes": ""
   },
   {
+    "date": "2012-07-20T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-07-23T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -2624,6 +2724,16 @@
     "notes": ""
   },
   {
+    "date": "2012-07-23T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-07-29T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -2816,6 +2926,16 @@
     "notes": ""
   },
   {
+    "date": "2012-07-29T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-08-12T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -2997,6 +3117,16 @@
     "set": 2,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-08-12T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -3192,6 +3322,16 @@
     "notes": ""
   },
   {
+    "date": "2012-08-27T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-09-01T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -3384,6 +3524,16 @@
     "notes": ""
   },
   {
+    "date": "2012-09-01T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-09-04T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -3573,6 +3723,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-09-04T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -3760,6 +3920,16 @@
     "notes": ""
   },
   {
+    "date": "2012-09-18T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-09-29T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -3949,6 +4119,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2012-09-29T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -4144,6 +4324,16 @@
     "notes": ""
   },
   {
+    "date": "2012-10-03T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2012-10-07T22:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -4336,6 +4526,16 @@
     "notes": ""
   },
   {
+    "date": "2012-10-07T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-03-19T23:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -4517,6 +4717,16 @@
     "set": 2,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-03-19T23:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -4709,6 +4919,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-03-26T23:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -4909,6 +5129,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-04-04T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -5136,6 +5366,16 @@
     "notes": ""
   },
   {
+    "date": "2013-08-08T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 10,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-08-21T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -5349,6 +5589,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-08-21T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -5568,6 +5818,16 @@
     "notes": ""
   },
   {
+    "date": "2013-08-25T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-08-28T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -5784,6 +6044,16 @@
     "notes": ""
   },
   {
+    "date": "2013-08-28T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-09-01T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -6024,6 +6294,16 @@
     "notes": ""
   },
   {
+    "date": "2013-09-01T22:00:00.000Z",
+    "exercise": "elliptical",
+    "set": 1,
+    "duration": 5,
+    "resistance": 10,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-09-15T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -6277,6 +6557,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-09-15T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -6736,6 +7026,16 @@
     "notes": ""
   },
   {
+    "date": "2013-09-23T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-10-01T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -6957,6 +7257,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-10-01T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -7200,6 +7510,16 @@
     "notes": ""
   },
   {
+    "date": "2013-10-05T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-10-09T22:00:00.000Z",
     "exercise": "dumbbell bench press",
     "set": 1,
@@ -7437,6 +7757,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-10-09T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -7680,6 +8010,16 @@
     "notes": ""
   },
   {
+    "date": "2013-10-12T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-10-16T22:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -7920,6 +8260,16 @@
     "notes": ""
   },
   {
+    "date": "2013-10-16T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "dumbbell incline bench press",
     "set": 1,
@@ -8021,6 +8371,16 @@
     "set": 3,
     "weight": 120,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2013-10-19T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 8,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -8456,6 +8816,16 @@
     "notes": ""
   },
   {
+    "date": "2013-10-26T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-10-31T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 1,
@@ -9200,6 +9570,16 @@
     "notes": ""
   },
   {
+    "date": "2013-11-11T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-11-14T23:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -9413,6 +9793,16 @@
     "set": 3,
     "weight": 5,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2013-11-14T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 4,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -9920,6 +10310,16 @@
     "notes": ""
   },
   {
+    "date": "2013-11-21T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -10157,6 +10557,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-11-25T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -10573,6 +10983,16 @@
     "set": 3,
     "weight": 25,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2013-12-04T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -11400,6 +11820,16 @@
     "notes": ""
   },
   {
+    "date": "2013-12-14T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-12-16T23:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -11621,6 +12051,16 @@
     "set": 3,
     "weight": 25,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2013-12-16T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -11936,6 +12376,16 @@
     "notes": ""
   },
   {
+    "date": "2013-12-19T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2013-12-28T23:00:00.000Z",
     "exercise": "seated preacher curl",
     "set": 1,
@@ -12085,6 +12535,16 @@
     "set": 1,
     "weight": 0,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2013-12-28T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -12520,6 +12980,16 @@
     "notes": ""
   },
   {
+    "date": "2014-01-08T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-01-13T23:00:00.000Z",
     "exercise": "machine triceps extension",
     "set": 1,
@@ -12733,6 +13203,16 @@
     "set": 3,
     "weight": 105,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-01-13T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -13157,6 +13637,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2014-01-27T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -14213,6 +14703,16 @@
     "set": 3,
     "weight": 120,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-02-14T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -15392,6 +15892,16 @@
     "notes": ""
   },
   {
+    "date": "2014-04-26T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-05-01T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -15656,6 +16166,16 @@
     "notes": ""
   },
   {
+    "date": "2014-05-01T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 4,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-05-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
@@ -15821,6 +16341,16 @@
     "set": 3,
     "weight": 70,
     "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2014-05-14T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -16520,6 +17050,16 @@
     "notes": ""
   },
   {
+    "date": "2014-05-24T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-05-28T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
@@ -16733,6 +17273,16 @@
     "set": 3,
     "weight": 80,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-05-28T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -17024,6 +17574,16 @@
     "notes": ""
   },
   {
+    "date": "2014-05-31T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-06-04T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
@@ -17237,6 +17797,16 @@
     "set": 3,
     "weight": 90,
     "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2014-06-04T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -17485,6 +18055,16 @@
     "set": 3,
     "weight": 10,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-06-08T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -17680,6 +18260,16 @@
     "notes": ""
   },
   {
+    "date": "2014-06-12T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-06-14T22:00:00.000Z",
     "exercise": "rear lateral raise",
     "set": 1,
@@ -17968,6 +18558,16 @@
     "notes": ""
   },
   {
+    "date": "2014-06-14T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-06-21T22:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -18157,6 +18757,16 @@
     "set": 3,
     "weight": 15,
     "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2014-06-21T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -18424,6 +19034,16 @@
     "notes": ""
   },
   {
+    "date": "2014-06-23T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-06-26T22:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -18645,6 +19265,16 @@
     "set": 3,
     "weight": 15,
     "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2014-06-26T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -18909,6 +19539,16 @@
     "set": 3,
     "weight": 100,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-07-03T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -19120,6 +19760,16 @@
     "notes": ""
   },
   {
+    "date": "2014-07-06T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-07-09T22:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -19357,6 +20007,16 @@
     "set": 3,
     "weight": 8,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-07-09T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -19576,6 +20236,16 @@
     "notes": ""
   },
   {
+    "date": "2014-07-13T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-07-16T22:00:00.000Z",
     "exercise": "traditional crunch",
     "set": 1,
@@ -19840,6 +20510,16 @@
     "notes": ""
   },
   {
+    "date": "2014-07-16T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-07-20T22:00:00.000Z",
     "exercise": "drag curl",
     "set": 1,
@@ -20032,6 +20712,16 @@
     "notes": ""
   },
   {
+    "date": "2014-07-20T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-07-23T22:00:00.000Z",
     "exercise": "drag curl",
     "set": 1,
@@ -20269,6 +20959,16 @@
     "set": 3,
     "weight": 10,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2014-07-23T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -20493,6 +21193,16 @@
     "set": 3,
     "weight": 0,
     "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2014-07-26T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -20704,6 +21414,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-02T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-08-05T22:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -20896,6 +21616,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-05T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-08-10T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -21109,6 +21839,16 @@
     "set": 3,
     "weight": 20,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-08-10T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -21312,6 +22052,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-13T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-08-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -21528,6 +22278,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-16T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-08-21T22:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -21720,6 +22480,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-21T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-08-26T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -21933,6 +22703,16 @@
     "set": 3,
     "weight": 20,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-08-26T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -22128,6 +22908,16 @@
     "notes": ""
   },
   {
+    "date": "2014-08-30T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-09-03T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -22341,6 +23131,16 @@
     "set": 3,
     "weight": 20,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-09-03T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -22541,6 +23341,16 @@
     "set": 3,
     "weight": 22,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2014-09-07T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -22760,6 +23570,16 @@
     "notes": ""
   },
   {
+    "date": "2014-09-09T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-09-15T22:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -22952,6 +23772,16 @@
     "notes": ""
   },
   {
+    "date": "2014-09-15T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -23165,6 +23995,16 @@
     "set": 3,
     "weight": 20,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-09-18T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -23360,6 +24200,16 @@
     "notes": ""
   },
   {
+    "date": "2014-09-24T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -23549,6 +24399,16 @@
     "set": 3,
     "weight": 20,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-09-27T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -23741,6 +24601,16 @@
     "set": 3,
     "weight": 25,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2014-10-02T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -23960,6 +24830,16 @@
     "notes": ""
   },
   {
+    "date": "2014-10-07T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-10-11T22:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -24149,6 +25029,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2014-10-11T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -24368,6 +25258,16 @@
     "notes": ""
   },
   {
+    "date": "2014-10-16T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-10-19T22:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -24557,6 +25457,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2014-10-19T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -24776,6 +25686,16 @@
     "notes": ""
   },
   {
+    "date": "2014-10-22T22:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 4,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-10-28T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -24965,6 +25885,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2014-10-28T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -25184,6 +26114,16 @@
     "notes": ""
   },
   {
+    "date": "2014-11-01T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-11-08T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -25376,6 +26316,16 @@
     "notes": ""
   },
   {
+    "date": "2014-11-08T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 4,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": "Fahrradtour"
+  },
+  {
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -25520,6 +26470,16 @@
     "notes": ""
   },
   {
+    "date": "2014-11-15T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-11-19T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -25704,6 +26664,16 @@
     "notes": ""
   },
   {
+    "date": "2014-11-19T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -25869,6 +26839,16 @@
     "set": 3,
     "weight": 14,
     "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2014-11-21T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -26061,6 +27041,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2014-11-24T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -26256,6 +27246,16 @@
     "notes": ""
   },
   {
+    "date": "2014-11-29T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-12-03T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -26445,6 +27445,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2014-12-03T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -26640,6 +27650,16 @@
     "notes": ""
   },
   {
+    "date": "2014-12-06T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-12-10T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -26832,6 +27852,16 @@
     "notes": ""
   },
   {
+    "date": "2014-12-10T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-12-13T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
@@ -27024,6 +28054,16 @@
     "notes": ""
   },
   {
+    "date": "2014-12-13T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
     "date": "2014-12-17T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
@@ -27213,6 +28253,16 @@
     "set": 3,
     "weight": 27,
     "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2014-12-17T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   },
   {
@@ -27405,6 +28455,16 @@
     "set": 3,
     "weight": 120,
     "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2014-12-21T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
     "notes": ""
   }
 ]

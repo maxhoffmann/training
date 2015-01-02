@@ -40,8 +40,11 @@ exercises = _(exercises)
   .map(convertDates)
   .value()
 
-fs.writeFileSync('./json/cardio.json', JSON.stringify(cardio, null, 2))
-fs.writeFileSync('./json/exercises.json', JSON.stringify(exercises, null, 2))
+var all = _(exercises.concat(cardio))
+  .sortBy('date')
+  .value()
+
+fs.writeFileSync('./json/all.json', JSON.stringify(all, null, 2))
 
 function trimExercise(entry) {
   entry.exercise = entry.exercise.trim()
