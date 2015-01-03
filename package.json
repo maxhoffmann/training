@@ -6,10 +6,28 @@
   "main": "bin/csv-to-json.js",
   "author": "Maximilian Hoffmann",
   "scripts": {
-    "start": "node update-data.js"
+    "build": "npm run update-json; npm run stylus-build; npm run webpack-build",
+    "watch": "npm run update-json; (npm run stylus-watch & npm run webpack-watch & npm run serve)",
+    "---": "",
+    "serve": "open http://localhost:3000 && php -S localhost:3000",
+    "update-json": "node csv-to-json.js",
+    "webpack-build": "webpack -p",
+    "webpack-watch": "webpack -w -d --sourcemap",
+    "stylus-build": "stylus src/main.styl -o dist -c; npm run autoprefixer",
+    "stylus-watch": "stylus src/main.styl -o dist -u autoprefixer-stylus --watch",
+    "autoprefixer": "autoprefixer ./dist/main.css -o ./dist/main.css"
   },
   "dependencies": {
     "comma-separated-values": "^3.6.1",
-    "lodash-node": "^2.4.1"
+    "lodash-node": "^2.4.1",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^4.0.0",
+    "autoprefixer-stylus": "^0.4.0",
+    "json-loader": "^0.5.1",
+    "jsx-loader": "^0.12.2",
+    "stylus": "^0.49.3",
+    "webpack": "^1.4.15"
   }
 }
