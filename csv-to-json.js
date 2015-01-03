@@ -37,6 +37,7 @@ exercises = _(exercises)
   .map(convertPropertyToNumber('set'))
   .map(convertPropertyToNumber('weight'))
   .map(convertPropertyToNumber('repetitions'))
+  .map(negateWeightOfAssistingExercises)
   .map(convertDates)
   .value()
 
@@ -53,6 +54,15 @@ function trimExercise(entry) {
 
 function removeKgFromWeight(entry) {
   entry.weight = entry.weight.slice(0,-3)
+  return entry
+}
+
+function negateWeightOfAssistingExercises(entry) {
+  var assistingExercises =
+    ['dip', 'assisted pull-up', 'parallel bar dip', 'triceps assisted dip', 'chinup']
+  if (assistingExercises.indexOf(entry.exercise) > -1) {
+    entry.weight *= -1
+  }
   return entry
 }
 

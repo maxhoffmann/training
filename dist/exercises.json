@@ -6459,7 +6459,7 @@
     "date": "2013-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 50,
+    "weight": -50,
     "repetitions": 10,
     "notes": ""
   },
@@ -6467,7 +6467,7 @@
     "date": "2013-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -6475,7 +6475,7 @@
     "date": "2013-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 6,
     "notes": ""
   },
@@ -6483,7 +6483,7 @@
     "date": "2013-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 4,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 8,
     "notes": ""
   },
@@ -6717,7 +6717,7 @@
     "date": "2013-09-20T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -6725,7 +6725,7 @@
     "date": "2013-09-20T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -6733,7 +6733,7 @@
     "date": "2013-09-20T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 9,
     "notes": ""
   },
@@ -6933,7 +6933,7 @@
     "date": "2013-09-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -6941,7 +6941,7 @@
     "date": "2013-09-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -6949,7 +6949,7 @@
     "date": "2013-09-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 45,
+    "weight": -45,
     "repetitions": 10,
     "notes": ""
   },
@@ -7167,7 +7167,7 @@
     "date": "2013-10-01T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 11,
     "notes": ""
   },
@@ -7175,7 +7175,7 @@
     "date": "2013-10-01T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -7183,7 +7183,7 @@
     "date": "2013-10-01T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 7,
     "notes": ""
   },
@@ -7393,7 +7393,7 @@
     "date": "2013-10-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 11,
     "notes": ""
   },
@@ -7401,7 +7401,7 @@
     "date": "2013-10-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -7409,7 +7409,7 @@
     "date": "2013-10-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 9,
     "notes": ""
   },
@@ -7643,7 +7643,7 @@
     "date": "2013-10-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -7651,7 +7651,7 @@
     "date": "2013-10-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 9,
     "notes": ""
   },
@@ -7659,7 +7659,7 @@
     "date": "2013-10-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 6,
     "notes": ""
   },
@@ -7893,7 +7893,7 @@
     "date": "2013-10-12T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 12,
     "notes": ""
   },
@@ -7901,7 +7901,7 @@
     "date": "2013-10-12T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 8,
     "notes": ""
   },
@@ -7909,7 +7909,7 @@
     "date": "2013-10-12T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 6,
     "notes": ""
   },
@@ -8135,7 +8135,7 @@
     "date": "2013-10-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 12,
     "notes": ""
   },
@@ -8143,7 +8143,7 @@
     "date": "2013-10-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 9,
     "notes": ""
   },
@@ -8151,7 +8151,7 @@
     "date": "2013-10-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 7,
     "notes": ""
   },
@@ -8305,7 +8305,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 12,
     "notes": ""
   },
@@ -8313,7 +8313,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -8321,7 +8321,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 7,
     "notes": ""
   },
@@ -8353,7 +8353,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 120,
+    "weight": -120,
     "repetitions": 10,
     "notes": ""
   },
@@ -8361,7 +8361,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 120,
+    "weight": -120,
     "repetitions": 9,
     "notes": ""
   },
@@ -8369,7 +8369,7 @@
     "date": "2013-10-19T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 120,
+    "weight": -120,
     "repetitions": 9,
     "notes": ""
   },
@@ -8539,7 +8539,7 @@
     "date": "2013-10-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -8547,7 +8547,7 @@
     "date": "2013-10-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -8555,7 +8555,7 @@
     "date": "2013-10-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 6,
     "notes": ""
   },
@@ -8563,7 +8563,7 @@
     "date": "2013-10-24T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 120,
+    "weight": -120,
     "repetitions": 12,
     "notes": ""
   },
@@ -8691,7 +8691,7 @@
     "date": "2013-10-26T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -8699,7 +8699,7 @@
     "date": "2013-10-26T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 5,
     "notes": ""
   },
@@ -8707,7 +8707,7 @@
     "date": "2013-10-26T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 3,
     "notes": ""
   },
@@ -8715,7 +8715,7 @@
     "date": "2013-10-26T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 4,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 7,
     "notes": ""
   },
@@ -9333,7 +9333,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -9341,7 +9341,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -9349,7 +9349,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -9477,7 +9477,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -9485,7 +9485,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -9493,7 +9493,7 @@
     "date": "2013-11-11T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 5,
     "notes": ""
   },
@@ -9921,7 +9921,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 11,
     "notes": ""
   },
@@ -9929,7 +9929,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -9937,7 +9937,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -9993,7 +9993,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -10001,7 +10001,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -10009,7 +10009,7 @@
     "date": "2013-11-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -10347,7 +10347,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -10355,7 +10355,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -10363,7 +10363,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "triceps assisted dip",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -10491,7 +10491,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -10499,7 +10499,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 9,
     "notes": ""
   },
@@ -10507,7 +10507,7 @@
     "date": "2013-11-25T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 5,
     "notes": ""
   },
@@ -10725,7 +10725,7 @@
     "date": "2013-11-30T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -10733,7 +10733,7 @@
     "date": "2013-11-30T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 7,
     "notes": ""
   },
@@ -10741,7 +10741,7 @@
     "date": "2013-11-30T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 8,
     "notes": ""
   },
@@ -10965,7 +10965,7 @@
     "date": "2013-12-04T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -10973,7 +10973,7 @@
     "date": "2013-12-04T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -10981,7 +10981,7 @@
     "date": "2013-12-04T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 9,
     "notes": ""
   },
@@ -11143,7 +11143,7 @@
     "date": "2013-12-07T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -11151,7 +11151,7 @@
     "date": "2013-12-07T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -11159,7 +11159,7 @@
     "date": "2013-12-07T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -11167,7 +11167,7 @@
     "date": "2013-12-07T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 4,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 2,
     "notes": ""
   },
@@ -11287,7 +11287,7 @@
     "date": "2013-12-11T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 10,
     "notes": ""
   },
@@ -11295,7 +11295,7 @@
     "date": "2013-12-11T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 10,
     "notes": ""
   },
@@ -11303,7 +11303,7 @@
     "date": "2013-12-11T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 10,
     "notes": ""
   },
@@ -11647,7 +11647,7 @@
     "date": "2013-12-14T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -11655,7 +11655,7 @@
     "date": "2013-12-14T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -11663,7 +11663,7 @@
     "date": "2013-12-14T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -11671,7 +11671,7 @@
     "date": "2013-12-14T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 4,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 1,
     "notes": ""
   },
@@ -12033,7 +12033,7 @@
     "date": "2013-12-16T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -12041,7 +12041,7 @@
     "date": "2013-12-16T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -12049,7 +12049,7 @@
     "date": "2013-12-16T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -12485,7 +12485,7 @@
     "date": "2013-12-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -12493,7 +12493,7 @@
     "date": "2013-12-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -12501,7 +12501,7 @@
     "date": "2013-12-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -12863,7 +12863,7 @@
     "date": "2014-01-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 10,
     "notes": ""
   },
@@ -12871,7 +12871,7 @@
     "date": "2014-01-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 8,
     "notes": ""
   },
@@ -12879,7 +12879,7 @@
     "date": "2014-01-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 5,
     "notes": ""
   },
@@ -13017,7 +13017,7 @@
     "date": "2014-01-13T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 10,
     "notes": ""
   },
@@ -13025,7 +13025,7 @@
     "date": "2014-01-13T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 10,
     "notes": ""
   },
@@ -13033,7 +13033,7 @@
     "date": "2014-01-13T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 11,
     "notes": ""
   },
@@ -13371,7 +13371,7 @@
     "date": "2014-01-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -13379,7 +13379,7 @@
     "date": "2014-01-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -13387,7 +13387,7 @@
     "date": "2014-01-18T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 5,
     "notes": ""
   },
@@ -13805,7 +13805,7 @@
     "date": "2014-02-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -13813,7 +13813,7 @@
     "date": "2014-02-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -13821,7 +13821,7 @@
     "date": "2014-02-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 4,
     "notes": ""
   },
@@ -13829,7 +13829,7 @@
     "date": "2014-02-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 4,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 3,
     "notes": ""
   },
@@ -13981,7 +13981,7 @@
     "date": "2014-02-06T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 10,
     "notes": ""
   },
@@ -13989,7 +13989,7 @@
     "date": "2014-02-06T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 10,
     "notes": ""
   },
@@ -13997,7 +13997,7 @@
     "date": "2014-02-06T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 9,
     "notes": ""
   },
@@ -14317,7 +14317,7 @@
     "date": "2014-02-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -14325,7 +14325,7 @@
     "date": "2014-02-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -14333,7 +14333,7 @@
     "date": "2014-02-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 4,
     "notes": ""
   },
@@ -14493,7 +14493,7 @@
     "date": "2014-02-14T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 5,
+    "weight": -5,
     "repetitions": 10,
     "notes": ""
   },
@@ -14501,7 +14501,7 @@
     "date": "2014-02-14T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 10,
     "notes": ""
   },
@@ -14509,7 +14509,7 @@
     "date": "2014-02-14T23:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 4,
+    "weight": -4,
     "repetitions": 9,
     "notes": ""
   },
@@ -14863,7 +14863,7 @@
     "date": "2014-02-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -14871,7 +14871,7 @@
     "date": "2014-02-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -14879,7 +14879,7 @@
     "date": "2014-02-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 6,
     "notes": ""
   },
@@ -15383,7 +15383,7 @@
     "date": "2014-04-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -15391,7 +15391,7 @@
     "date": "2014-04-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -15399,7 +15399,7 @@
     "date": "2014-04-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 12,
     "notes": ""
   },
@@ -15575,7 +15575,7 @@
     "date": "2014-04-22T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -15583,7 +15583,7 @@
     "date": "2014-04-22T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -15591,7 +15591,7 @@
     "date": "2014-04-22T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 9,
     "notes": ""
   },
@@ -15695,7 +15695,7 @@
     "date": "2014-04-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 11,
     "notes": ""
   },
@@ -15703,7 +15703,7 @@
     "date": "2014-04-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -15711,7 +15711,7 @@
     "date": "2014-04-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -15905,7 +15905,7 @@
     "date": "2014-05-01T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -15913,7 +15913,7 @@
     "date": "2014-05-01T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -15921,7 +15921,7 @@
     "date": "2014-05-01T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 40,
+    "weight": -40,
     "repetitions": 10,
     "notes": ""
   },
@@ -16179,7 +16179,7 @@
     "date": "2014-05-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -16187,7 +16187,7 @@
     "date": "2014-05-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -16195,7 +16195,7 @@
     "date": "2014-05-14T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -16509,7 +16509,7 @@
     "date": "2014-05-18T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -16517,7 +16517,7 @@
     "date": "2014-05-18T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -16525,7 +16525,7 @@
     "date": "2014-05-18T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -16805,7 +16805,7 @@
     "date": "2014-05-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 11,
     "notes": ""
   },
@@ -16813,7 +16813,7 @@
     "date": "2014-05-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 11,
     "notes": ""
   },
@@ -16821,7 +16821,7 @@
     "date": "2014-05-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -16829,7 +16829,7 @@
     "date": "2014-05-24T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -16837,7 +16837,7 @@
     "date": "2014-05-24T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -16845,7 +16845,7 @@
     "date": "2014-05-24T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -16853,7 +16853,7 @@
     "date": "2014-05-24T22:00:00.000Z",
     "exercise": "chinup",
     "set": 4,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 4,
     "notes": ""
   },
@@ -17063,7 +17063,7 @@
     "date": "2014-05-28T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -17071,7 +17071,7 @@
     "date": "2014-05-28T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -17079,7 +17079,7 @@
     "date": "2014-05-28T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -17449,7 +17449,7 @@
     "date": "2014-05-31T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -17457,7 +17457,7 @@
     "date": "2014-05-31T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -17465,7 +17465,7 @@
     "date": "2014-05-31T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -17587,7 +17587,7 @@
     "date": "2014-06-04T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -17595,7 +17595,7 @@
     "date": "2014-06-04T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -17603,7 +17603,7 @@
     "date": "2014-06-04T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -17813,7 +17813,7 @@
     "date": "2014-06-08T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -17821,7 +17821,7 @@
     "date": "2014-06-08T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -17829,7 +17829,7 @@
     "date": "2014-06-08T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -18071,7 +18071,7 @@
     "date": "2014-06-12T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 12,
     "notes": ""
   },
@@ -18079,7 +18079,7 @@
     "date": "2014-06-12T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -18087,7 +18087,7 @@
     "date": "2014-06-12T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -18441,7 +18441,7 @@
     "date": "2014-06-14T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -18449,7 +18449,7 @@
     "date": "2014-06-14T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -18457,7 +18457,7 @@
     "date": "2014-06-14T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -18739,7 +18739,7 @@
     "date": "2014-06-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 11,
     "notes": ""
   },
@@ -18747,7 +18747,7 @@
     "date": "2014-06-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -18755,7 +18755,7 @@
     "date": "2014-06-21T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 7,
     "notes": ""
   },
@@ -18917,7 +18917,7 @@
     "date": "2014-06-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -18925,7 +18925,7 @@
     "date": "2014-06-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -18933,7 +18933,7 @@
     "date": "2014-06-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -19247,7 +19247,7 @@
     "date": "2014-06-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -19255,7 +19255,7 @@
     "date": "2014-06-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -19263,7 +19263,7 @@
     "date": "2014-06-26T22:00:00.000Z",
     "exercise": "parallel bar dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 7,
     "notes": ""
   },
@@ -19425,7 +19425,7 @@
     "date": "2014-07-03T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -19433,7 +19433,7 @@
     "date": "2014-07-03T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 12,
     "notes": ""
   },
@@ -19441,7 +19441,7 @@
     "date": "2014-07-03T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -19893,7 +19893,7 @@
     "date": "2014-07-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -19901,7 +19901,7 @@
     "date": "2014-07-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -19909,7 +19909,7 @@
     "date": "2014-07-09T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 7,
     "notes": ""
   },
@@ -20393,7 +20393,7 @@
     "date": "2014-07-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -20401,7 +20401,7 @@
     "date": "2014-07-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -20409,7 +20409,7 @@
     "date": "2014-07-16T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 8,
     "notes": ""
   },
@@ -20869,7 +20869,7 @@
     "date": "2014-07-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -20877,7 +20877,7 @@
     "date": "2014-07-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -20885,7 +20885,7 @@
     "date": "2014-07-23T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 6,
     "notes": ""
   },
@@ -21209,7 +21209,7 @@
     "date": "2014-08-02T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -21217,7 +21217,7 @@
     "date": "2014-08-02T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -21225,7 +21225,7 @@
     "date": "2014-08-02T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -21523,7 +21523,7 @@
     "date": "2014-08-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -21531,7 +21531,7 @@
     "date": "2014-08-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -21539,7 +21539,7 @@
     "date": "2014-08-05T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 7,
     "notes": ""
   },
@@ -21629,7 +21629,7 @@
     "date": "2014-08-10T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -21637,7 +21637,7 @@
     "date": "2014-08-10T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -21645,7 +21645,7 @@
     "date": "2014-08-10T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 7,
     "notes": ""
   },
@@ -21951,7 +21951,7 @@
     "date": "2014-08-13T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -21959,7 +21959,7 @@
     "date": "2014-08-13T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": ""
   },
@@ -21967,7 +21967,7 @@
     "date": "2014-08-13T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -22065,7 +22065,7 @@
     "date": "2014-08-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -22073,7 +22073,7 @@
     "date": "2014-08-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -22081,7 +22081,7 @@
     "date": "2014-08-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 8,
     "notes": ""
   },
@@ -22387,7 +22387,7 @@
     "date": "2014-08-21T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -22395,7 +22395,7 @@
     "date": "2014-08-21T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 7,
     "notes": ""
   },
@@ -22403,7 +22403,7 @@
     "date": "2014-08-21T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -22493,7 +22493,7 @@
     "date": "2014-08-26T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -22501,7 +22501,7 @@
     "date": "2014-08-26T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -22509,7 +22509,7 @@
     "date": "2014-08-26T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 7,
     "notes": ""
   },
@@ -22815,7 +22815,7 @@
     "date": "2014-08-30T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -22823,7 +22823,7 @@
     "date": "2014-08-30T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 9,
     "notes": ""
   },
@@ -22831,7 +22831,7 @@
     "date": "2014-08-30T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 4,
     "notes": ""
   },
@@ -22921,7 +22921,7 @@
     "date": "2014-09-03T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -22929,7 +22929,7 @@
     "date": "2014-09-03T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -22937,7 +22937,7 @@
     "date": "2014-09-03T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 6,
     "notes": ""
   },
@@ -23251,7 +23251,7 @@
     "date": "2014-09-07T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 10,
     "notes": ""
   },
@@ -23259,7 +23259,7 @@
     "date": "2014-09-07T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 6,
     "notes": ""
   },
@@ -23267,7 +23267,7 @@
     "date": "2014-09-07T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 6,
     "notes": ""
   },
@@ -23357,7 +23357,7 @@
     "date": "2014-09-09T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -23365,7 +23365,7 @@
     "date": "2014-09-09T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -23373,7 +23373,7 @@
     "date": "2014-09-09T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 6,
     "notes": ""
   },
@@ -23461,7 +23461,7 @@
     "date": "2014-09-09T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 7,
     "notes": ""
   },
@@ -23469,7 +23469,7 @@
     "date": "2014-09-09T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 25,
+    "weight": -25,
     "repetitions": 8,
     "notes": "kurz vor ende"
   },
@@ -23679,7 +23679,7 @@
     "date": "2014-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -23687,7 +23687,7 @@
     "date": "2014-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -23695,7 +23695,7 @@
     "date": "2014-09-15T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 6,
     "notes": ""
   },
@@ -23785,7 +23785,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -23793,7 +23793,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -23801,7 +23801,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 7,
     "notes": ""
   },
@@ -23881,7 +23881,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -23889,7 +23889,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -23897,7 +23897,7 @@
     "date": "2014-09-18T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 20,
+    "weight": -20,
     "repetitions": 10,
     "notes": ""
   },
@@ -24107,7 +24107,7 @@
     "date": "2014-09-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -24115,7 +24115,7 @@
     "date": "2014-09-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -24123,7 +24123,7 @@
     "date": "2014-09-24T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 35,
+    "weight": -35,
     "repetitions": 10,
     "notes": ""
   },
@@ -24213,7 +24213,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24221,7 +24221,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -24229,7 +24229,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 8,
     "notes": ""
   },
@@ -24309,7 +24309,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24317,7 +24317,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24325,7 +24325,7 @@
     "date": "2014-09-27T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 8,
     "notes": ""
   },
@@ -24511,7 +24511,7 @@
     "date": "2014-10-02T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -24519,7 +24519,7 @@
     "date": "2014-10-02T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -24527,7 +24527,7 @@
     "date": "2014-10-02T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 7,
     "notes": ""
   },
@@ -24617,7 +24617,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24625,7 +24625,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24633,7 +24633,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 8,
     "notes": ""
   },
@@ -24713,7 +24713,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -24721,7 +24721,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -24729,7 +24729,7 @@
     "date": "2014-10-07T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -24939,7 +24939,7 @@
     "date": "2014-10-11T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -24947,7 +24947,7 @@
     "date": "2014-10-11T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -24955,7 +24955,7 @@
     "date": "2014-10-11T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 5,
     "notes": ""
   },
@@ -25045,7 +25045,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25053,7 +25053,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25061,7 +25061,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 8,
     "notes": ""
   },
@@ -25141,7 +25141,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25149,7 +25149,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25157,7 +25157,7 @@
     "date": "2014-10-16T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -25367,7 +25367,7 @@
     "date": "2014-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -25375,7 +25375,7 @@
     "date": "2014-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
@@ -25383,7 +25383,7 @@
     "date": "2014-10-19T22:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 6,
     "notes": ""
   },
@@ -25473,7 +25473,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25481,7 +25481,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25489,7 +25489,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 8,
     "notes": ""
   },
@@ -25569,7 +25569,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25577,7 +25577,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25585,7 +25585,7 @@
     "date": "2014-10-22T22:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -25795,7 +25795,7 @@
     "date": "2014-10-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -25803,7 +25803,7 @@
     "date": "2014-10-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -25811,7 +25811,7 @@
     "date": "2014-10-28T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 6,
     "notes": ""
   },
@@ -25901,7 +25901,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25909,7 +25909,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -25917,7 +25917,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -25997,7 +25997,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26005,7 +26005,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26013,7 +26013,7 @@
     "date": "2014-11-01T23:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26223,7 +26223,7 @@
     "date": "2014-11-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26231,7 +26231,7 @@
     "date": "2014-11-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26239,7 +26239,7 @@
     "date": "2014-11-08T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -26329,7 +26329,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26337,7 +26337,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26345,7 +26345,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 9,
     "notes": ""
   },
@@ -26425,7 +26425,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26433,7 +26433,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26441,7 +26441,7 @@
     "date": "2014-11-15T23:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26579,7 +26579,7 @@
     "date": "2014-11-19T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26587,7 +26587,7 @@
     "date": "2014-11-19T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26595,7 +26595,7 @@
     "date": "2014-11-19T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -26677,7 +26677,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "chinup",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26685,7 +26685,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "chinup",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26693,7 +26693,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "chinup",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26773,7 +26773,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "dip",
     "set": 1,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26781,7 +26781,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "dip",
     "set": 2,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26789,7 +26789,7 @@
     "date": "2014-11-21T23:00:00.000Z",
     "exercise": "dip",
     "set": 3,
-    "weight": 15,
+    "weight": -15,
     "repetitions": 10,
     "notes": ""
   },
@@ -26951,7 +26951,7 @@
     "date": "2014-11-24T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26959,7 +26959,7 @@
     "date": "2014-11-24T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -26967,7 +26967,7 @@
     "date": "2014-11-24T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 7,
     "notes": ""
   },
@@ -27355,7 +27355,7 @@
     "date": "2014-12-03T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -27363,7 +27363,7 @@
     "date": "2014-12-03T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -27371,7 +27371,7 @@
     "date": "2014-12-03T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -27759,7 +27759,7 @@
     "date": "2014-12-10T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -27767,7 +27767,7 @@
     "date": "2014-12-10T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -27775,7 +27775,7 @@
     "date": "2014-12-10T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 7,
     "notes": ""
   },
@@ -28163,7 +28163,7 @@
     "date": "2014-12-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -28171,7 +28171,7 @@
     "date": "2014-12-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -28179,7 +28179,7 @@
     "date": "2014-12-17T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 8,
     "notes": ""
   },
@@ -28567,7 +28567,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 1,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -28575,7 +28575,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 2,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 10,
     "notes": ""
   },
@@ -28583,7 +28583,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "assisted pull-up",
     "set": 3,
-    "weight": 30,
+    "weight": -30,
     "repetitions": 9,
     "notes": ""
   },
