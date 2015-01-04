@@ -21,7 +21,8 @@
     "comma-separated-values": "^3.6.1",
     "lodash-node": "^2.4.1",
     "moment": "^2.8.4",
-    "react": "^0.12.2"
+    "react": "^0.12.2",
+    "react-chartist": "^0.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^4.0.0",
