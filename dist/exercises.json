@@ -28471,7 +28471,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 1,
-    "weight": 10,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -28479,7 +28479,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 2,
-    "weight": 10,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -28487,7 +28487,7 @@
     "date": "2015-01-01T23:00:00.000Z",
     "exercise": "diamond pushup",
     "set": 3,
-    "weight": 10,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -28669,6 +28669,216 @@
   },
   {
     "date": "2015-01-01T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "chinup",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "chinup",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "chinup",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "drag curl",
+    "set": 1,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "drag curl",
+    "set": 2,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "drag curl",
+    "set": 3,
+    "weight": 22,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell lateral raise",
+    "set": 1,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell lateral raise",
+    "set": 2,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell lateral raise",
+    "set": 3,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "barbell bent-over row",
+    "set": 1,
+    "weight": 36,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "barbell bent-over row",
+    "set": 2,
+    "weight": 36,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "barbell bent-over row",
+    "set": 3,
+    "weight": 36,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "barbell bent-over row",
+    "set": 4,
+    "weight": 30,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "back raise",
+    "set": 1,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "back raise",
+    "set": 2,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "back raise",
+    "set": 3,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dip",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dip",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dip",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell incline bench press",
+    "set": 1,
+    "weight": 18,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell incline bench press",
+    "set": 2,
+    "weight": 18,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "dumbbell incline bench press",
+    "set": 3,
+    "weight": 18,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "machine leg press",
+    "set": 1,
+    "weight": 110,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "machine leg press",
+    "set": 2,
+    "weight": 110,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
+    "exercise": "machine leg press",
+    "set": 3,
+    "weight": 120,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-03T23:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
     "duration": 5,
