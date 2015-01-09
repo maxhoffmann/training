@@ -28886,5 +28886,215 @@
     "elevation": "",
     "calories": "",
     "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "diamond pushup",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "diamond pushup",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "diamond pushup",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "cable triceps pushdown",
+    "set": 1,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "cable triceps pushdown",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "cable triceps pushdown",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "cable triceps pushdown",
+    "set": 4,
+    "weight": 30,
+    "repetitions": 1,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell deadlift",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell deadlift",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell deadlift",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell biceps curl",
+    "set": 1,
+    "weight": 14,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell biceps curl",
+    "set": 2,
+    "weight": 14,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "dumbbell biceps curl",
+    "set": 3,
+    "weight": 14,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "assisted pull-up",
+    "set": 1,
+    "weight": -30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "assisted pull-up",
+    "set": 2,
+    "weight": -30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "assisted pull-up",
+    "set": 3,
+    "weight": -30,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "barbell bench press",
+    "set": 1,
+    "weight": 47,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "barbell bench press",
+    "set": 2,
+    "weight": 47,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "barbell bench press",
+    "set": 3,
+    "weight": 47,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "traditional crunch",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "traditional crunch",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "traditional crunch",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "upright row",
+    "set": 1,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "upright row",
+    "set": 2,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "upright row",
+    "set": 3,
+    "weight": 27,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-07T23:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "duration": 5,
+    "resistance": null,
+    "elevation": "",
+    "calories": "",
+    "notes": ""
   }
 ]
