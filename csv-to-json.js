@@ -3,57 +3,35 @@ var fs = require('fs')
 var CSV = require('comma-separated-values')
 var _ = require('lodash-node')
 
-var source = fs.readFileSync('./src/source.csv', 'utf-8')
-  .replace(/\n\n/g, '\n')
-  .split('\n')
-  .slice(2)
-  .join('\n')
-  .split('Exercise\n')
-
-var cardio = source[0].split('\n').slice(1, -1).join('\n')
-var exercises = source[1].split('\n').slice(1).join('\n')
-
-cardio = new CSV(cardio, {
-  cast: false,
-  header: ['date','exercise','set','duration','resistance','elevation','calories','notes']
-}).parse()
+var archive = JSON.parse(fs.readFileSync('./src/archive.json', 'utf-8'))
+var exercises = fs.readFileSync('./src/source.csv', 'utf-8').split('\n').slice(1).join('\n')
 
 exercises = new CSV(exercises, {
   cast: false,
   header: ['date','exercise','set','weight','repetitions','notes']
 }).parse()
 
-cardio = _(cardio)
-  .map(trimExercise)
-  .map(convertPropertyToNumber('set'))
-  .map(convertPropertyToNumber('duration'))
-  .map(convertPropertyToNumber('resistance'))
-  .map(convertDates)
-  .value()
-
 exercises = _(exercises)
-  .map(trimExercise)
-  .map(removeKgFromWeight)
+  .map(exerciseToLowercase)
   .map(convertPropertyToNumber('set'))
   .map(convertPropertyToNumber('weight'))
   .map(convertPropertyToNumber('repetitions'))
+  .map(removeWeightIfNull)
   .map(negateWeightOfAssistingExercises)
   .map(convertDates)
-  .value()
-
-var all = _(exercises.concat(cardio))
   .sortBy('date')
   .value()
 
+var all = archive.concat(exercises);
 fs.writeFileSync('./dist/exercises.json', JSON.stringify(all, null, 2))
 
-function trimExercise(entry) {
-  entry.exercise = entry.exercise.trim()
+function exerciseToLowercase(entry) {
+  entry.exercise = entry.exercise.toLowerCase()
   return entry
 }
 
-function removeKgFromWeight(entry) {
-  entry.weight = entry.weight.slice(0,-3)
+function removeWeightIfNull(entry) {
+  if (isNaN(entry.weight)) delete entry.weight
   return entry
 }
 
@@ -74,6 +52,8 @@ function convertPropertyToNumber(property) {
 }
 
 function convertDates(entry) {
-  entry.date = new Date(entry.date)
+  var date = entry.date.split('.').reverse()
+  date[0] = '20'+date[0]
+  entry.date = new Date(date.join('-'))
   return entry
 }
