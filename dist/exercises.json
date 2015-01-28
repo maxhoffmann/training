@@ -30094,5 +30094,201 @@
     "weight": 120,
     "repetitions": 10,
     "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 47,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 47,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 47,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 1,
+    "weight": 50,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 2,
+    "weight": 50,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 3,
+    "weight": 50,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 1,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 2,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 3,
+    "weight": 27,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 1,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 2,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 3,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 1,
+    "weight": 14,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 2,
+    "weight": 14,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 3,
+    "weight": 14,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 1,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 2,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 3,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "ab crunch machine",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "ab crunch machine",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-01-27T00:00:00.000Z",
+    "exercise": "ab crunch machine",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
   }
 ]
