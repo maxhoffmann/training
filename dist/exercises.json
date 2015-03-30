@@ -33579,5 +33579,29 @@
     "weight": 130,
     "repetitions": 12,
     "notes": ""
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 1,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 2,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-03-28T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 3,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
   }
 ]
