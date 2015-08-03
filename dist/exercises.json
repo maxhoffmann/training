@@ -40814,5 +40814,198 @@
     "set": 3,
     "repetitions": 20,
     "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 1,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 2,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 3,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 1,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 2,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 3,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "dumbbell bench press",
+    "set": 1,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "dumbbell bench press",
+    "set": 2,
+    "weight": 22,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "dumbbell bench press",
+    "set": 3,
+    "weight": 22,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 27,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 27,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 1,
+    "weight": 10,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 2,
+    "weight": 10,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 3,
+    "weight": 10,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 1,
+    "weight": 37,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 2,
+    "weight": 37,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 3,
+    "weight": 37,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 1,
+    "weight": 140,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 2,
+    "weight": 140,
+    "repetitions": 13,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 3,
+    "weight": 140,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 1,
+    "weight": 10,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 2,
+    "weight": 10,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-02T00:00:00.000Z",
+    "exercise": "hyperextensions",
+    "set": 3,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
   }
 ]
