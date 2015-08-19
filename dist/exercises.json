@@ -41007,5 +41007,925 @@
     "weight": 10,
     "repetitions": 10,
     "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 50,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 50,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 50,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 1,
+    "weight": 65,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 2,
+    "weight": 65,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "lat pulldown behind neck",
+    "set": 3,
+    "weight": 65,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 1,
+    "weight": 32,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 2,
+    "weight": 32,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "upright cable row",
+    "set": 3,
+    "weight": 32,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 1,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 2,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "cable internal rotation",
+    "set": 3,
+    "weight": 6,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 1,
+    "weight": 16,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 2,
+    "weight": 16,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "hammer curls",
+    "set": 3,
+    "weight": 16,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-06T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "gironda sternum chins",
+    "set": 1,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "machine assisted pull up",
+    "set": 1,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "machine assisted pull up",
+    "set": 2,
+    "weight": 45,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "machine assisted pull up",
+    "set": 3,
+    "weight": 45,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 1,
+    "weight": 25,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 2,
+    "weight": 25,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "chest dips",
+    "set": 3,
+    "weight": 25,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 2,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 3,
+    "weight": 10,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 4,
+    "weight": 10,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 4,
+    "weight": 10,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "barbell squat",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 13,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "barbell squat",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "barbell squat",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "leg raise on parallel bars",
+    "set": 1,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "leg raise on parallel bars",
+    "set": 2,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "bent over rear delt row with head on bench",
+    "set": 1,
+    "weight": 4,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 1,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 2,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 3,
+    "weight": 6,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 40,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-09T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 40,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "gironda sternum chins",
+    "set": 1,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 1,
+    "weight": 45,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 2,
+    "weight": 45,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 3,
+    "weight": 50,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 40,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 4,
+    "weight": 40,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 1,
+    "weight": 12,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 2,
+    "weight": 12,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 3,
+    "weight": 12,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 4,
+    "weight": 20,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 1,
+    "weight": 35,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 1,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 2,
+    "weight": 6,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 3,
+    "weight": 6,
+    "repetitions": 13,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-13T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 40,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 4,
+    "weight": 40,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 1,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 1,
+    "weight": 12,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 2,
+    "weight": 12,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 3,
+    "weight": 12,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 1,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 2,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 3,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 1,
+    "weight": 30,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 1,
+    "weight": 140,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 2,
+    "weight": 140,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 3,
+    "weight": 140,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-08-18T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "repetitions": 30,
+    "notes": ""
   }
 ]
