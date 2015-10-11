@@ -29101,6 +29101,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29108,6 +29109,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29115,6 +29117,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -29122,6 +29125,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 4,
     "notes": ""
   },
@@ -29129,6 +29133,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29136,6 +29141,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29143,6 +29149,7 @@
     "date": "2015-01-11T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -29294,6 +29301,7 @@
     "date": "2015-01-15T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29517,6 +29525,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29524,6 +29533,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29531,6 +29541,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -29538,6 +29549,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 4,
     "notes": ""
   },
@@ -29545,6 +29557,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29552,6 +29565,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29559,6 +29573,7 @@
     "date": "2015-01-18T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -29710,6 +29725,7 @@
     "date": "2015-01-22T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29765,6 +29781,7 @@
     "date": "2015-01-22T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29772,6 +29789,7 @@
     "date": "2015-01-22T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29779,6 +29797,7 @@
     "date": "2015-01-22T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -29906,6 +29925,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29913,6 +29933,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29920,6 +29941,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -29927,6 +29949,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -29934,6 +29957,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29941,6 +29965,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -29948,6 +29973,7 @@
     "date": "2015-01-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -30099,6 +30125,7 @@
     "date": "2015-01-27T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30154,6 +30181,7 @@
     "date": "2015-01-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30161,6 +30189,7 @@
     "date": "2015-01-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30168,6 +30197,7 @@
     "date": "2015-01-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -30295,6 +30325,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30302,6 +30333,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30309,6 +30341,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -30316,6 +30349,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30323,6 +30357,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30330,6 +30365,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30337,6 +30373,7 @@
     "date": "2015-01-29T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -30488,6 +30525,7 @@
     "date": "2015-02-08T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30543,6 +30581,7 @@
     "date": "2015-02-08T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30550,6 +30589,7 @@
     "date": "2015-02-08T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30557,6 +30597,7 @@
     "date": "2015-02-08T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -30684,6 +30725,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30691,6 +30733,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30698,6 +30741,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -30705,6 +30749,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30712,6 +30757,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30719,6 +30765,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30726,6 +30773,7 @@
     "date": "2015-02-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -30877,6 +30925,7 @@
     "date": "2015-02-13T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -30932,6 +30981,7 @@
     "date": "2015-02-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30939,6 +30989,7 @@
     "date": "2015-02-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -30946,6 +30997,7 @@
     "date": "2015-02-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31073,6 +31125,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -31080,6 +31133,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31087,6 +31141,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -31094,6 +31149,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -31101,6 +31157,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31108,6 +31165,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31115,6 +31173,7 @@
     "date": "2015-02-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -31266,6 +31325,7 @@
     "date": "2015-02-19T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -31321,6 +31381,7 @@
     "date": "2015-02-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31328,6 +31389,7 @@
     "date": "2015-02-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31335,6 +31397,7 @@
     "date": "2015-02-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31462,6 +31525,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -31469,6 +31533,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31476,6 +31541,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31483,6 +31549,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -31490,6 +31557,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31497,6 +31565,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31504,6 +31573,7 @@
     "date": "2015-02-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31655,6 +31725,7 @@
     "date": "2015-02-27T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -31710,6 +31781,7 @@
     "date": "2015-02-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31717,6 +31789,7 @@
     "date": "2015-02-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31724,6 +31797,7 @@
     "date": "2015-02-27T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31851,6 +31925,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -31858,6 +31933,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31865,6 +31941,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31872,6 +31949,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -31879,6 +31957,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31886,6 +31965,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -31893,6 +31973,7 @@
     "date": "2015-03-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32052,6 +32133,7 @@
     "date": "2015-03-05T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -32107,6 +32189,7 @@
     "date": "2015-03-05T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32114,6 +32197,7 @@
     "date": "2015-03-05T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32121,6 +32205,7 @@
     "date": "2015-03-05T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32248,6 +32333,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -32255,6 +32341,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32262,6 +32349,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32269,6 +32357,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -32276,6 +32365,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32283,6 +32373,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32290,6 +32381,7 @@
     "date": "2015-03-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32441,6 +32533,7 @@
     "date": "2015-03-15T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -32496,6 +32589,7 @@
     "date": "2015-03-15T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32503,6 +32597,7 @@
     "date": "2015-03-15T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32510,6 +32605,7 @@
     "date": "2015-03-15T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32637,6 +32733,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -32644,6 +32741,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32651,6 +32749,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32658,6 +32757,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -32665,6 +32765,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32672,6 +32773,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32679,6 +32781,7 @@
     "date": "2015-03-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -32830,6 +32933,7 @@
     "date": "2015-03-19T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -32885,6 +32989,7 @@
     "date": "2015-03-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32892,6 +32997,7 @@
     "date": "2015-03-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -32899,6 +33005,7 @@
     "date": "2015-03-19T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33026,6 +33133,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -33033,6 +33141,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33040,6 +33149,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33047,6 +33157,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -33054,6 +33165,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33061,6 +33173,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33068,6 +33181,7 @@
     "date": "2015-03-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33219,6 +33333,7 @@
     "date": "2015-03-25T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -33274,6 +33389,7 @@
     "date": "2015-03-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33281,6 +33397,7 @@
     "date": "2015-03-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33288,6 +33405,7 @@
     "date": "2015-03-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33415,6 +33533,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -33422,6 +33541,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33429,6 +33549,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33436,6 +33557,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -33443,6 +33565,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33450,6 +33573,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33457,6 +33581,7 @@
     "date": "2015-03-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33608,6 +33733,7 @@
     "date": "2015-03-30T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -33663,6 +33789,7 @@
     "date": "2015-03-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33670,6 +33797,7 @@
     "date": "2015-03-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33677,6 +33805,7 @@
     "date": "2015-03-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -33804,6 +33933,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -33811,6 +33941,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33818,6 +33949,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -33825,6 +33957,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -33832,6 +33965,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33839,6 +33973,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33846,6 +33981,7 @@
     "date": "2015-04-01T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -33997,6 +34133,7 @@
     "date": "2015-04-09T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34052,6 +34189,7 @@
     "date": "2015-04-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34059,6 +34197,7 @@
     "date": "2015-04-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -34066,6 +34205,7 @@
     "date": "2015-04-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34193,6 +34333,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34200,6 +34341,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34207,6 +34349,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34214,6 +34357,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -34221,6 +34365,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34228,6 +34373,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34235,6 +34381,7 @@
     "date": "2015-04-12T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34386,6 +34533,7 @@
     "date": "2015-04-16T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34441,6 +34589,7 @@
     "date": "2015-04-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -34448,6 +34597,7 @@
     "date": "2015-04-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34455,6 +34605,7 @@
     "date": "2015-04-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34582,6 +34733,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34589,6 +34741,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34596,6 +34749,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34603,6 +34757,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -34610,6 +34765,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34617,6 +34773,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34624,6 +34781,7 @@
     "date": "2015-04-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -34775,6 +34933,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34830,6 +34989,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -34837,6 +34997,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34844,6 +35005,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34947,6 +35109,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -34954,6 +35117,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -34961,6 +35125,7 @@
     "date": "2015-04-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -34968,6 +35133,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -34975,6 +35141,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34982,6 +35149,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -34989,6 +35157,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -34996,6 +35165,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35003,6 +35173,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35010,6 +35181,7 @@
     "date": "2015-04-26T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35169,6 +35341,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -35224,6 +35397,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35231,6 +35405,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35238,6 +35413,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35365,6 +35541,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35372,6 +35549,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35379,6 +35557,7 @@
     "date": "2015-05-01T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35386,6 +35565,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -35393,6 +35573,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35400,6 +35581,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35407,6 +35589,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -35414,6 +35597,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35421,6 +35605,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35428,6 +35613,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35435,6 +35621,7 @@
     "date": "2015-05-03T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 4,
+    "weight": 0,
     "repetitions": 2,
     "notes": ""
   },
@@ -35602,6 +35789,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -35657,6 +35845,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35664,6 +35853,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -35671,6 +35861,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35798,6 +35989,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35805,6 +35997,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35812,6 +36005,7 @@
     "date": "2015-05-07T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -35819,6 +36013,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -35826,6 +36021,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35833,6 +36029,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35840,6 +36037,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -35847,6 +36045,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35854,6 +36053,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -35861,6 +36061,7 @@
     "date": "2015-05-10T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36012,6 +36213,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -36067,6 +36269,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36074,6 +36277,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -36081,6 +36285,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -36208,6 +36413,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36215,6 +36421,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36222,6 +36429,7 @@
     "date": "2015-05-14T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36229,6 +36437,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -36236,6 +36445,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36243,6 +36453,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36250,6 +36461,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36257,6 +36469,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36264,6 +36477,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36271,6 +36485,7 @@
     "date": "2015-05-17T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36422,6 +36637,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -36477,6 +36693,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36484,6 +36701,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -36491,6 +36709,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -36626,6 +36845,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36633,6 +36853,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36640,6 +36861,7 @@
     "date": "2015-05-20T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -36647,6 +36869,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -36654,6 +36877,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36661,6 +36885,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36668,6 +36893,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -36675,6 +36901,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36682,6 +36909,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36689,6 +36917,7 @@
     "date": "2015-05-25T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36848,6 +37077,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -36903,6 +37133,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -36910,6 +37141,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -36917,6 +37149,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37044,6 +37277,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37051,6 +37285,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37058,6 +37293,7 @@
     "date": "2015-05-28T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37065,6 +37301,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -37072,6 +37309,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37079,6 +37317,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37086,6 +37325,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37093,6 +37333,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37100,6 +37341,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37107,6 +37349,7 @@
     "date": "2015-06-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37258,6 +37501,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -37313,6 +37557,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37320,6 +37565,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37327,6 +37573,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37462,6 +37709,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37469,6 +37717,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37476,6 +37725,7 @@
     "date": "2015-06-04T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37483,6 +37733,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -37490,6 +37741,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37497,6 +37749,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37504,6 +37757,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37511,6 +37765,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37518,6 +37773,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37525,6 +37781,7 @@
     "date": "2015-06-07T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37684,6 +37941,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -37739,6 +37997,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37746,6 +38005,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37753,6 +38013,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -37888,6 +38149,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37895,6 +38157,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37902,6 +38165,7 @@
     "date": "2015-06-11T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -37909,6 +38173,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -37916,6 +38181,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37923,6 +38189,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37930,6 +38197,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -37937,6 +38205,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37944,6 +38213,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -37951,6 +38221,7 @@
     "date": "2015-06-15T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -38102,6 +38373,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -38165,6 +38437,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38172,6 +38445,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -38179,6 +38453,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -38306,6 +38581,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -38313,6 +38589,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -38320,6 +38597,7 @@
     "date": "2015-06-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 21,
     "notes": ""
   },
@@ -38327,6 +38605,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -38334,6 +38613,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38341,6 +38621,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38348,6 +38629,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38355,6 +38637,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38362,6 +38645,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38369,6 +38653,7 @@
     "date": "2015-06-22T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38520,6 +38805,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -38583,6 +38869,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38590,6 +38877,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -38597,6 +38885,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -38724,6 +39013,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -38731,6 +39021,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -38738,6 +39029,7 @@
     "date": "2015-06-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 21,
     "notes": ""
   },
@@ -38745,6 +39037,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -38752,6 +39045,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38759,6 +39053,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38766,6 +39061,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -38773,6 +39069,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38780,6 +39077,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38787,6 +39085,7 @@
     "date": "2015-06-28T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38938,6 +39237,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -38969,6 +39269,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -38976,6 +39277,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -38983,6 +39285,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -39110,6 +39413,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39117,6 +39421,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39124,6 +39429,7 @@
     "date": "2015-07-02T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39155,6 +39461,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -39162,6 +39469,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39169,6 +39477,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39176,6 +39485,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39183,6 +39493,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -39190,6 +39501,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39197,6 +39509,7 @@
     "date": "2015-07-06T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39348,6 +39661,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -39403,6 +39717,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -39410,6 +39725,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39417,6 +39733,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -39544,6 +39861,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39551,6 +39869,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39558,6 +39877,7 @@
     "date": "2015-07-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39565,6 +39885,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -39572,6 +39893,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -39579,6 +39901,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39586,6 +39909,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39593,6 +39917,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39600,6 +39925,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39607,6 +39933,7 @@
     "date": "2015-07-13T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39766,6 +40093,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -39821,6 +40149,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -39828,6 +40157,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39835,6 +40165,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -39962,6 +40293,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39969,6 +40301,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39976,6 +40309,7 @@
     "date": "2015-07-16T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -39983,6 +40317,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -39990,6 +40325,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -39997,6 +40333,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40004,6 +40341,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40011,6 +40349,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -40018,6 +40357,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40025,6 +40365,7 @@
     "date": "2015-07-19T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40176,6 +40517,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -40239,6 +40581,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -40246,6 +40589,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40253,6 +40597,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -40388,6 +40733,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40395,6 +40741,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40402,6 +40749,7 @@
     "date": "2015-07-24T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40409,6 +40757,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -40416,6 +40765,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40423,6 +40773,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40430,6 +40781,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40437,6 +40789,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -40444,6 +40797,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -40451,6 +40805,7 @@
     "date": "2015-07-27T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40602,6 +40957,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -40657,6 +41013,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -40664,6 +41021,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40671,6 +41029,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40798,6 +41157,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40805,6 +41165,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40812,6 +41173,7 @@
     "date": "2015-07-30T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -40819,6 +41181,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -40826,6 +41189,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40833,6 +41197,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -40840,6 +41205,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -40847,6 +41213,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -40854,6 +41221,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 2,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -40861,6 +41229,7 @@
     "date": "2015-08-02T00:00:00.000Z",
     "exercise": "chest dips",
     "set": 3,
+    "weight": 0,
     "repetitions": 11,
     "notes": ""
   },
@@ -41012,6 +41381,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -41067,6 +41437,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 12,
     "notes": ""
   },
@@ -41074,6 +41445,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -41081,6 +41453,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -41208,6 +41581,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41215,6 +41589,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41222,6 +41597,7 @@
     "date": "2015-08-06T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41229,6 +41605,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -41236,6 +41613,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "gironda sternum chins",
     "set": 1,
+    "weight": 0,
     "repetitions": 3,
     "notes": ""
   },
@@ -41323,6 +41701,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -41330,6 +41709,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -41337,6 +41717,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -41400,6 +41781,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "leg raise on parallel bars",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -41407,6 +41789,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "leg raise on parallel bars",
     "set": 2,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -41414,6 +41797,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41421,6 +41805,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41428,6 +41813,7 @@
     "date": "2015-08-09T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41491,6 +41877,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -41498,6 +41885,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "gironda sternum chins",
     "set": 1,
+    "weight": 0,
     "repetitions": 3,
     "notes": ""
   },
@@ -41585,6 +41973,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -41592,6 +41981,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -41599,6 +41989,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 7,
     "notes": ""
   },
@@ -41710,6 +42101,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41717,6 +42109,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41724,6 +42117,7 @@
     "date": "2015-08-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41731,6 +42125,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -41818,6 +42213,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -41825,6 +42221,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 4,
     "notes": ""
   },
@@ -41832,6 +42229,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 3,
     "notes": ""
   },
@@ -41911,6 +42309,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41918,6 +42317,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -41925,6 +42325,7 @@
     "date": "2015-08-18T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 30,
     "notes": ""
   },
@@ -41932,6 +42333,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42051,6 +42453,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -42058,6 +42461,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 9,
     "notes": ""
   },
@@ -42065,6 +42469,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -42120,6 +42525,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42127,6 +42533,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42134,6 +42541,7 @@
     "date": "2015-08-21T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 21,
     "notes": ""
   },
@@ -42141,6 +42549,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -42148,6 +42557,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 2,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -42155,6 +42565,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "chin ups",
     "set": 3,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42162,6 +42573,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42337,6 +42749,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42344,6 +42757,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42351,6 +42765,7 @@
     "date": "2015-08-23T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 21,
     "notes": ""
   },
@@ -42358,6 +42773,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42437,6 +42853,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -42444,6 +42861,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -42451,6 +42869,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 8,
     "notes": ""
   },
@@ -42530,6 +42949,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42537,6 +42957,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42544,6 +42965,7 @@
     "date": "2015-08-25T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42551,6 +42973,7 @@
     "date": "2015-08-27T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42742,6 +43165,7 @@
     "date": "2015-08-27T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42749,6 +43173,7 @@
     "date": "2015-08-27T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42756,6 +43181,7 @@
     "date": "2015-08-27T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42787,6 +43213,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "treadmill",
     "set": 1,
+    "weight": 0,
     "repetitions": 5,
     "notes": ""
   },
@@ -42874,6 +43301,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 1,
+    "weight": 0,
     "repetitions": 10,
     "notes": ""
   },
@@ -42881,6 +43309,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 2,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -42888,6 +43317,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "push-ups (close and wide hand positions)",
     "set": 3,
+    "weight": 0,
     "repetitions": 6,
     "notes": ""
   },
@@ -42943,6 +43373,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 1,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42950,6 +43381,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 2,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42957,6 +43389,7 @@
     "date": "2015-09-13T00:00:00.000Z",
     "exercise": "crunches floor",
     "set": 3,
+    "weight": 0,
     "repetitions": 20,
     "notes": ""
   },
@@ -42982,6 +43415,814 @@
     "set": 3,
     "weight": 22,
     "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 1,
+    "weight": 55,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 2,
+    "weight": 55,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 3,
+    "weight": 55,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 4,
+    "weight": 45,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 40,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 4,
+    "weight": 40,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 1,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 2,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 3,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 1,
+    "weight": 17,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 2,
+    "weight": 17,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 3,
+    "weight": 17,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 4,
+    "weight": 17,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-24T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "chin ups",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 1,
+    "weight": 8,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 2,
+    "weight": 8,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 3,
+    "weight": 8,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 1,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 1,
+    "weight": 80,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 2,
+    "weight": 80,
+    "repetitions": 13,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 3,
+    "weight": 90,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "bent over rear delt row with head on bench",
+    "set": 1,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "bent over rear delt row with head on bench",
+    "set": 2,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "bent over rear delt row with head on bench",
+    "set": 3,
+    "weight": 5,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-09-27T00:00:00.000Z",
+    "exercise": "dumbbell shrug",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 1,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 2,
+    "weight": 40,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 3,
+    "weight": 40,
+    "repetitions": 7,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "bench press",
+    "set": 4,
+    "weight": 40,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 1,
+    "weight": 50,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 2,
+    "weight": 55,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 3,
+    "weight": 55,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 4,
+    "weight": 50,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "lat pulldown",
+    "set": 5,
+    "weight": 50,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 1,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dips - triceps version",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 14,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 1,
+    "weight": 17,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 2,
+    "weight": 17,
+    "repetitions": 8,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 3,
+    "weight": 17,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "standing military press",
+    "set": 4,
+    "weight": 17,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 4,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 4,
+    "weight": 20,
+    "repetitions": 3,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 1,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 2,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "dead lifts",
+    "set": 3,
+    "weight": 24,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-02T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "treadmill",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 5,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 1,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 2,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "t-bar row",
+    "set": 3,
+    "weight": 30,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 9,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "push-ups (close and wide hand positions)",
+    "set": 4,
+    "weight": 0,
+    "repetitions": 1,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 1,
+    "weight": 8,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 2,
+    "weight": 8,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "side lateral raise",
+    "set": 3,
+    "weight": 8,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 1,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 2,
+    "weight": 22,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "triceps pushdown",
+    "set": 3,
+    "weight": 22,
+    "repetitions": 11,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 1,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 2,
+    "weight": 20,
+    "repetitions": 10,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 3,
+    "weight": 20,
+    "repetitions": 6,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "ez-bar curl",
+    "set": 4,
+    "weight": 20,
+    "repetitions": 1,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 1,
+    "weight": 80,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 2,
+    "weight": 90,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "leg press",
+    "set": 3,
+    "weight": 90,
+    "repetitions": 12,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 1,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 2,
+    "weight": 0,
+    "repetitions": 20,
+    "notes": ""
+  },
+  {
+    "date": "2015-10-07T00:00:00.000Z",
+    "exercise": "crunches floor",
+    "set": 3,
+    "weight": 0,
+    "repetitions": 20,
     "notes": ""
   }
 ]
